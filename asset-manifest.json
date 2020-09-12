@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a04644e.chunk.css",
+    "main.js": "/static/js/main.d98ecc16.chunk.js",
+    "main.js.map": "/static/js/main.d98ecc16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.5cd30713.chunk.js": "/static/js/2.5cd30713.chunk.js",
+    "static/js/2.5cd30713.chunk.js.map": "/static/js/2.5cd30713.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a33ac4ef5f0179ec1fadb0a7a702212d.js": "/precache-manifest.a33ac4ef5f0179ec1fadb0a7a702212d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6a04644e.chunk.css.map": "/static/css/main.6a04644e.chunk.css.map",
+    "static/js/2.5cd30713.chunk.js.LICENSE.txt": "/static/js/2.5cd30713.chunk.js.LICENSE.txt",
+    "static/media/lobby.jpg": "/static/media/lobby.efd762d0.jpg",
+    "static/media/logo-frontweb.png": "/static/media/logo-frontweb.364a243a.png",
+    "static/media/user-girl-t-shirt.png": "/static/media/user-girl-t-shirt.cd8469bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.5cd30713.chunk.js",
+    "static/css/main.6a04644e.chunk.css",
+    "static/js/main.d98ecc16.chunk.js"
+  ]
+}
